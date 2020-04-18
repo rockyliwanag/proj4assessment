@@ -1,6 +1,5 @@
 {
   "name": "project-4-assessment",
-  "homepage": "https://rockyliwanag.github.io/proj4assessment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +33,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://rockyliwanag.github.io/proj4assessment"
 }
